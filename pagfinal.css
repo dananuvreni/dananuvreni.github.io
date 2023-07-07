@@ -319,7 +319,7 @@
 /*-------------------------------------TERMINA PORTFOLIO----------------------------*/
 }
 /*MOVIL*/
-@media(max-width:768px), (min-width: 320px ), (orientation: portrait){
+@media(max-width:575.98px), (min-width: 320px ), (orientation: portrait){
     body{ 
         background: #333333;
     }
