@@ -319,12 +319,9 @@
 /*-------------------------------------TERMINA PORTFOLIO----------------------------*/
 }
 /*MOVIL*/
-@media(max-width:300px), (min-width: 70px ), (orientation: landscape), (orientation:portrait){
+@media(max-width:1280px), (min-width: 720px ), (orientation: landscape), (orientation:portrait){
     body{ 
         background: #333333;
-    }
-    body {
-        background:  #333333;
     }
     footer{
         background-color: #333333;
